@@ -1,0 +1,5 @@
+# endpoint is localhost:8090/App
+# user: viju
+# pass: data2
+
+# NOTE: the application endpont exposed is the same as the name of the ".war" file geneerated
